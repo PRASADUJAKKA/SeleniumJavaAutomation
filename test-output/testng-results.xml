@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="67" passed="59" failed="8" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T14:40:35 IST" name="Suite" finished-at="2024-06-17T14:53:03 IST" duration-ms="747985">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T14:40:35 IST" name="Test" finished-at="2024-06-17T14:53:03 IST" duration-ms="747985">
+      <class name="SeleniumJavaDemos.RelativeLocators">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.RelativeLocators@37883b97]" started-at="2024-06-17T14:47:43 IST" name="setUp" finished-at="2024-06-17T14:47:44 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.RelativeLocators@37883b97]" started-at="2024-06-17T14:47:44 IST" name="main" finished-at="2024-06-17T14:47:48 IST" duration-ms="4024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.RelativeLocators@37883b97]" started-at="2024-06-17T14:47:48 IST" name="tearDown" finished-at="2024-06-17T14:47:48 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.RelativeLocators -->
+      <class name="SeleniumJavaDemos.SHubWebTable">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SHubWebTable@6f45df59]" started-at="2024-06-17T14:48:41 IST" name="setUp" finished-at="2024-06-17T14:48:42 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SHubWebTable@6f45df59]" started-at="2024-06-17T14:48:42 IST" name="main" finished-at="2024-06-17T14:48:50 IST" duration-ms="8121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SHubWebTable@6f45df59]" started-at="2024-06-17T14:48:50 IST" name="tearDown" finished-at="2024-06-17T14:48:50 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SHubWebTable -->
+      <class name="SeleniumJavaDemos.WaitForPageloading">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WaitForPageloading@6db9f5a4]" started-at="2024-06-17T14:51:28 IST" name="setUp" finished-at="2024-06-17T14:51:28 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WaitForPageloading@6db9f5a4]" started-at="2024-06-17T14:51:28 IST" name="main" finished-at="2024-06-17T14:51:40 IST" duration-ms="11491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WaitForPageloading@6db9f5a4]" started-at="2024-06-17T14:51:40 IST" name="tearDown" finished-at="2024-06-17T14:51:40 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WaitForPageloading -->
+      <class name="SeleniumJavaDemos.TotalLinksConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.TotalLinksConcept@424e1977]" started-at="2024-06-17T14:51:07 IST" name="setUp" finished-at="2024-06-17T14:51:08 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.TotalLinksConcept@424e1977]" started-at="2024-06-17T14:51:08 IST" name="main" finished-at="2024-06-17T14:51:12 IST" duration-ms="4318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.TotalLinksConcept@424e1977]" started-at="2024-06-17T14:51:12 IST" name="tearDown" finished-at="2024-06-17T14:51:12 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.TotalLinksConcept -->
+      <class name="SeleniumJavaDemos.FrameHandling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.FrameHandling@2e377400]" started-at="2024-06-17T14:44:26 IST" name="setUp" finished-at="2024-06-17T14:44:27 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.FrameHandling@2e377400]" started-at="2024-06-17T14:44:27 IST" name="main" finished-at="2024-06-17T14:45:01 IST" duration-ms="34131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.FrameHandling@2e377400]" started-at="2024-06-17T14:45:01 IST" name="tearDown" finished-at="2024-06-17T14:45:01 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.FrameHandling -->
+      <class name="SeleniumJavaDemos.SelectDropDownConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SelectDropDownConcept@4e3958e7]" started-at="2024-06-17T14:48:02 IST" name="setUp" finished-at="2024-06-17T14:48:03 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SelectDropDownConcept@4e3958e7]" started-at="2024-06-17T14:48:03 IST" name="main" finished-at="2024-06-17T14:48:10 IST" duration-ms="7237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SelectDropDownConcept@4e3958e7]" started-at="2024-06-17T14:48:10 IST" name="tearDown" finished-at="2024-06-17T14:48:10 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SelectDropDownConcept -->
+      <class name="SeleniumJavaDemos.FileUploadPopUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.FileUploadPopUp@26b3fd41]" started-at="2024-06-17T14:44:00 IST" name="setUp" finished-at="2024-06-17T14:44:01 IST" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.FileUploadPopUp@26b3fd41]" started-at="2024-06-17T14:44:01 IST" name="main" finished-at="2024-06-17T14:44:14 IST" duration-ms="13405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.FileUploadPopUp@26b3fd41]" started-at="2024-06-17T14:44:14 IST" name="tearDown" finished-at="2024-06-17T14:44:14 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.FileUploadPopUp -->
+      <class name="SeleniumJavaDemos.FluentWaitConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.FluentWaitConcept@561b6512]" started-at="2024-06-17T14:44:20 IST" name="setUp" finished-at="2024-06-17T14:44:21 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.FluentWaitConcept@561b6512]" started-at="2024-06-17T14:44:21 IST" name="main" finished-at="2024-06-17T14:44:26 IST" duration-ms="4733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.FluentWaitConcept@561b6512]" started-at="2024-06-17T14:44:26 IST" name="tearDown" finished-at="2024-06-17T14:44:26 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.FluentWaitConcept -->
+      <class name="SeleniumJavaDemos.BrowserWindowHandling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.BrowserWindowHandling@399c4be1]" started-at="2024-06-17T14:42:30 IST" name="setUp" finished-at="2024-06-17T14:42:30 IST" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.BrowserWindowHandling@399c4be1]" started-at="2024-06-17T14:42:30 IST" name="main" finished-at="2024-06-17T14:42:48 IST" duration-ms="17815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.BrowserWindowHandling@399c4be1]" started-at="2024-06-17T14:42:48 IST" name="tearDown" finished-at="2024-06-17T14:42:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.BrowserWindowHandling -->
+      <class name="SeleniumJavaDemos.WebDriverBasics">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WebDriverBasics@1ebd319f]" started-at="2024-06-17T14:52:15 IST" name="setUp" finished-at="2024-06-17T14:52:16 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WebDriverBasics@1ebd319f]" started-at="2024-06-17T14:52:16 IST" name="main" finished-at="2024-06-17T14:52:20 IST" duration-ms="3741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WebDriverBasics@1ebd319f]" started-at="2024-06-17T14:52:20 IST" name="tearDown" finished-at="2024-06-17T14:52:20 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WebDriverBasics -->
+      <class name="SeleniumJavaDemos.ActionsScrolling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsScrolling@5aebe890]" started-at="2024-06-17T14:41:17 IST" name="setUp" finished-at="2024-06-17T14:41:18 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsScrolling@5aebe890]" started-at="2024-06-17T14:41:18 IST" name="main" finished-at="2024-06-17T14:41:22 IST" duration-ms="4052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsScrolling@5aebe890]" started-at="2024-06-17T14:41:22 IST" name="tearDown" finished-at="2024-06-17T14:41:22 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsScrolling -->
+      <class name="SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass@77f80c04]" started-at="2024-06-17T14:48:10 IST" name="setUp" finished-at="2024-06-17T14:48:11 IST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass@77f80c04]" started-at="2024-06-17T14:48:11 IST" name="main" finished-at="2024-06-17T14:48:18 IST" duration-ms="7262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass@77f80c04]" started-at="2024-06-17T14:48:18 IST" name="tearDown" finished-at="2024-06-17T14:48:18 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass -->
+      <class name="SeleniumJavaDemos.TotalImages">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.TotalImages@31f9b85e]" started-at="2024-06-17T14:51:03 IST" name="setUp" finished-at="2024-06-17T14:51:04 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.TotalImages@31f9b85e]" started-at="2024-06-17T14:51:04 IST" name="main" finished-at="2024-06-17T14:51:07 IST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.TotalImages@31f9b85e]" started-at="2024-06-17T14:51:07 IST" name="tearDown" finished-at="2024-06-17T14:51:07 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.TotalImages -->
+      <class name="SeleniumJavaDemos.WebTableWithRelativeLocator">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WebTableWithRelativeLocator@7a675056]" started-at="2024-06-17T14:52:36 IST" name="setUp" finished-at="2024-06-17T14:52:36 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WebTableWithRelativeLocator@7a675056]" started-at="2024-06-17T14:52:36 IST" name="main" finished-at="2024-06-17T14:52:55 IST" duration-ms="18994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WebTableWithRelativeLocator@7a675056]" started-at="2024-06-17T14:52:55 IST" name="tearDown" finished-at="2024-06-17T14:52:56 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WebTableWithRelativeLocator -->
+      <class name="SeleniumJavaDemos.WaitForIframe">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WaitForIframe@117e949d]" started-at="2024-06-17T14:51:20 IST" name="setUp" finished-at="2024-06-17T14:51:20 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WaitForIframe@117e949d]" started-at="2024-06-17T14:51:20 IST" name="main" finished-at="2024-06-17T14:51:27 IST" duration-ms="7207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WaitForIframe@117e949d]" started-at="2024-06-17T14:51:27 IST" name="tearDown" finished-at="2024-06-17T14:51:28 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WaitForIframe -->
+      <class name="SeleniumJavaDemos.CricInfoTable">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.CricInfoTable@385e9564]" started-at="2024-06-17T14:42:52 IST" name="setUp" finished-at="2024-06-17T14:42:53 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.CricInfoTable@385e9564]" started-at="2024-06-17T14:42:53 IST" name="main" finished-at="2024-06-17T14:42:59 IST" duration-ms="5831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.CricInfoTable@385e9564]" started-at="2024-06-17T14:42:59 IST" name="tearDown" finished-at="2024-06-17T14:42:59 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.CricInfoTable -->
+      <class name="SeleniumJavaDemos.NestedIframes">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.NestedIframes@37271612]" started-at="2024-06-17T14:46:14 IST" name="setUp" finished-at="2024-06-17T14:46:15 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.NestedIframes@37271612]" started-at="2024-06-17T14:46:15 IST" name="main" finished-at="2024-06-17T14:46:26 IST" duration-ms="10555" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchFrameException">
+            <message>
+              <![CDATA[No frame element found by name or id pact2
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchFrameException: No frame element found by name or id pact2
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:1098)
+at SeleniumJavaDemos.NestedIframes.main(NestedIframes.java:31)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchFrameException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.NestedIframes@37271612]" started-at="2024-06-17T14:46:26 IST" name="tearDown" finished-at="2024-06-17T14:46:26 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.NestedIframes -->
+      <class name="SeleniumJavaDemos.LaunchDrivers">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.LaunchDrivers@c86b9e3]" started-at="2024-06-17T14:45:52 IST" name="setUp" finished-at="2024-06-17T14:45:53 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.LaunchDrivers@c86b9e3]" started-at="2024-06-17T14:45:53 IST" name="main" finished-at="2024-06-17T14:46:01 IST" duration-ms="8214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.LaunchDrivers@c86b9e3]" started-at="2024-06-17T14:46:01 IST" name="tearDown" finished-at="2024-06-17T14:46:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.LaunchDrivers -->
+      <class name="SeleniumJavaDemos.PsuedoElementCncept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.PsuedoElementCncept@38102d01]" started-at="2024-06-17T14:47:38 IST" name="setUp" finished-at="2024-06-17T14:47:39 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.PsuedoElementCncept@38102d01]" started-at="2024-06-17T14:47:39 IST" name="main" finished-at="2024-06-17T14:47:43 IST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.PsuedoElementCncept@38102d01]" started-at="2024-06-17T14:47:43 IST" name="tearDown" finished-at="2024-06-17T14:47:43 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.PsuedoElementCncept -->
+      <class name="SeleniumJavaDemos.iFrameHandle">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.iFrameHandle@757277dc]" started-at="2024-06-17T14:45:18 IST" name="setUp" finished-at="2024-06-17T14:45:19 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.iFrameHandle@757277dc]" started-at="2024-06-17T14:45:19 IST" name="main" finished-at="2024-06-17T14:45:29 IST" duration-ms="9831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.iFrameHandle@757277dc]" started-at="2024-06-17T14:45:29 IST" name="tearDown" finished-at="2024-06-17T14:45:29 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.iFrameHandle -->
+      <class name="SeleniumJavaDemos.ImplicitlyWaitConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ImplicitlyWaitConcept@687e99d8]" started-at="2024-06-17T14:45:29 IST" name="setUp" finished-at="2024-06-17T14:45:29 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ImplicitlyWaitConcept@687e99d8]" started-at="2024-06-17T14:45:29 IST" name="main" finished-at="2024-06-17T14:45:36 IST" duration-ms="6402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ImplicitlyWaitConcept@687e99d8]" started-at="2024-06-17T14:45:36 IST" name="tearDown" finished-at="2024-06-17T14:45:36 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ImplicitlyWaitConcept -->
+      <class name="SeleniumJavaDemos.JqueryDropDown">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.JqueryDropDown@6aaceffd]" started-at="2024-06-17T14:45:42 IST" name="setUp" finished-at="2024-06-17T14:45:42 IST" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.JqueryDropDown@6aaceffd]" started-at="2024-06-17T14:45:42 IST" name="main" finished-at="2024-06-17T14:45:52 IST" duration-ms="9817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.JqueryDropDown@6aaceffd]" started-at="2024-06-17T14:45:52 IST" name="tearDown" finished-at="2024-06-17T14:45:52 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.JqueryDropDown -->
+      <class name="SeleniumJavaDemos.SVGMapHandle">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SVGMapHandle@2d2ffcb7]" started-at="2024-06-17T14:50:10 IST" name="setUp" finished-at="2024-06-17T14:50:11 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SVGMapHandle@2d2ffcb7]" started-at="2024-06-17T14:50:11 IST" name="main" finished-at="2024-06-17T14:50:58 IST" duration-ms="46736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SVGMapHandle@2d2ffcb7]" started-at="2024-06-17T14:50:58 IST" name="tearDown" finished-at="2024-06-17T14:50:58 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SVGMapHandle -->
+      <class name="SeleniumJavaDemos.CSSSelectors">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.CSSSelectors@5b94b04d]" started-at="2024-06-17T14:42:59 IST" name="setUp" finished-at="2024-06-17T14:43:00 IST" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.CSSSelectors@5b94b04d]" started-at="2024-06-17T14:43:00 IST" name="main" finished-at="2024-06-17T14:43:04 IST" duration-ms="4167" status="FAIL">
+          <exception class="org.openqa.selenium.JavascriptException">
+            <message>
+              <![CDATA[javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d89f6fbd0446989f8d4177c17b321e7, findElement {value=input[id!!!!=-==='username'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61928}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61928/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89f6fbd0446989f8d4177c17b321e7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d89f6fbd0446989f8d4177c17b321e7, findElement {value=input[id!!!!=-==='username'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61928}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61928/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89f6fbd0446989f8d4177c17b321e7
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at SeleniumJavaDemos.CSSSelectors.main(CSSSelectors.java:16)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.JavascriptException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.CSSSelectors@5b94b04d]" started-at="2024-06-17T14:43:04 IST" name="tearDown" finished-at="2024-06-17T14:43:04 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.CSSSelectors -->
+      <class name="SeleniumJavaDemos.AlertJsPopUpHandling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.AlertJsPopUpHandling@75db5df9]" started-at="2024-06-17T14:41:42 IST" name="setUp" finished-at="2024-06-17T14:41:43 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.AlertJsPopUpHandling@75db5df9]" started-at="2024-06-17T14:41:43 IST" name="main" finished-at="2024-06-17T14:41:59 IST" duration-ms="16291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.AlertJsPopUpHandling@75db5df9]" started-at="2024-06-17T14:41:59 IST" name="tearDown" finished-at="2024-06-17T14:41:59 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.AlertJsPopUpHandling -->
+      <class name="SeleniumJavaDemos.PollingTimeConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.PollingTimeConcept@4c309d4d]" started-at="2024-06-17T14:47:04 IST" name="setUp" finished-at="2024-06-17T14:47:04 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.PollingTimeConcept@4c309d4d]" started-at="2024-06-17T14:47:04 IST" name="main" finished-at="2024-06-17T14:47:38 IST" duration-ms="33548" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //a[contains(@href, 'twitter11')] (tried for 2 second(s) with 5000 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62960}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62960/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ae0c4cf36730e0772d9208d77ca1f49]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //a[contains(@href, 'twitter11')] (tried for 2 second(s) with 5000 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62960}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62960/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ae0c4cf36730e0772d9208d77ca1f49
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at SeleniumJavaDemos.PollingTimeConcept.main(PollingTimeConcept.java:31)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.PollingTimeConcept@4c309d4d]" started-at="2024-06-17T14:47:38 IST" name="tearDown" finished-at="2024-06-17T14:47:38 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.PollingTimeConcept -->
+      <class name="SeleniumJavaDemos.ActionsMultiLevelMenuHandling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsMultiLevelMenuHandling@394df057]" started-at="2024-06-17T14:40:56 IST" name="setUp" finished-at="2024-06-17T14:40:57 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsMultiLevelMenuHandling@394df057]" started-at="2024-06-17T14:40:57 IST" name="main" finished-at="2024-06-17T14:41:13 IST" duration-ms="15518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsMultiLevelMenuHandling@394df057]" started-at="2024-06-17T14:41:13 IST" name="tearDown" finished-at="2024-06-17T14:41:13 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsMultiLevelMenuHandling -->
+      <class name="SeleniumJavaDemos.ShadowDOMElement">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ShadowDOMElement@5c90e579]" started-at="2024-06-17T14:48:27 IST" name="setUp" finished-at="2024-06-17T14:48:28 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ShadowDOMElement@5c90e579]" started-at="2024-06-17T14:48:28 IST" name="main" finished-at="2024-06-17T14:48:31 IST" duration-ms="3469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ShadowDOMElement@5c90e579]" started-at="2024-06-17T14:48:31 IST" name="tearDown" finished-at="2024-06-17T14:48:31 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ShadowDOMElement -->
+      <class name="SeleniumJavaDemos.WindowSize">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WindowSize@d21a74c]" started-at="2024-06-17T14:52:56 IST" name="setUp" finished-at="2024-06-17T14:52:56 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WindowSize@d21a74c]" started-at="2024-06-17T14:52:56 IST" name="main" finished-at="2024-06-17T14:53:03 IST" duration-ms="6452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WindowSize@d21a74c]" started-at="2024-06-17T14:53:03 IST" name="tearDown" finished-at="2024-06-17T14:53:03 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WindowSize -->
+      <class name="SeleniumJavaDemos.SVGElement">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SVGElement@291b4bf5]" started-at="2024-06-17T14:50:01 IST" name="setUp" finished-at="2024-06-17T14:50:02 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SVGElement@291b4bf5]" started-at="2024-06-17T14:50:02 IST" name="main" finished-at="2024-06-17T14:50:10 IST" duration-ms="8607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SVGElement@291b4bf5]" started-at="2024-06-17T14:50:10 IST" name="tearDown" finished-at="2024-06-17T14:50:10 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SVGElement -->
+      <class name="SeleniumJavaDemos.ActionsSignature">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsSignature@65d09a04]" started-at="2024-06-17T14:41:22 IST" name="setUp" finished-at="2024-06-17T14:41:23 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsSignature@65d09a04]" started-at="2024-06-17T14:41:23 IST" name="main" finished-at="2024-06-17T14:41:35 IST" duration-ms="11721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsSignature@65d09a04]" started-at="2024-06-17T14:41:35 IST" name="tearDown" finished-at="2024-06-17T14:41:35 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsSignature -->
+      <class name="SeleniumJavaDemos.BrowserMultipleWindowHandling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.BrowserMultipleWindowHandling@45b4c3a9]" started-at="2024-06-17T14:42:10 IST" name="setUp" finished-at="2024-06-17T14:42:11 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.BrowserMultipleWindowHandling@45b4c3a9]" started-at="2024-06-17T14:42:11 IST" name="main" finished-at="2024-06-17T14:42:29 IST" duration-ms="18746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.BrowserMultipleWindowHandling@45b4c3a9]" started-at="2024-06-17T14:42:29 IST" name="tearDown" finished-at="2024-06-17T14:42:30 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.BrowserMultipleWindowHandling -->
+      <class name="SeleniumJavaDemos.WaitForAlerts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WaitForAlerts@10d68fcd]" started-at="2024-06-17T14:51:12 IST" name="setUp" finished-at="2024-06-17T14:51:13 IST" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WaitForAlerts@10d68fcd]" started-at="2024-06-17T14:51:13 IST" name="main" finished-at="2024-06-17T14:51:19 IST" duration-ms="6457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WaitForAlerts@10d68fcd]" started-at="2024-06-17T14:51:19 IST" name="tearDown" finished-at="2024-06-17T14:51:20 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WaitForAlerts -->
+      <class name="SeleniumJavaDemos.JavaScriptExecutorConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.JavaScriptExecutorConcept@e4487af]" started-at="2024-06-17T14:45:36 IST" name="setUp" finished-at="2024-06-17T14:45:37 IST" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.JavaScriptExecutorConcept@e4487af]" started-at="2024-06-17T14:45:37 IST" name="main" finished-at="2024-06-17T14:45:41 IST" duration-ms="4697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.JavaScriptExecutorConcept@e4487af]" started-at="2024-06-17T14:45:41 IST" name="tearDown" finished-at="2024-06-17T14:45:42 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.JavaScriptExecutorConcept -->
+      <class name="SeleniumJavaDemos.ActionsTabSequence">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsTabSequence@33c911a1]" started-at="2024-06-17T14:41:35 IST" name="setUp" finished-at="2024-06-17T14:41:35 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsTabSequence@33c911a1]" started-at="2024-06-17T14:41:35 IST" name="main" finished-at="2024-06-17T14:41:42 IST" duration-ms="6460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsTabSequence@33c911a1]" started-at="2024-06-17T14:41:42 IST" name="tearDown" finished-at="2024-06-17T14:41:42 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsTabSequence -->
+      <class name="SeleniumJavaDemos.WaitForTitleUrl">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WaitForTitleUrl@5f8edcc5]" started-at="2024-06-17T14:51:40 IST" name="setUp" finished-at="2024-06-17T14:51:41 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WaitForTitleUrl@5f8edcc5]" started-at="2024-06-17T14:51:41 IST" name="main" finished-at="2024-06-17T14:52:03 IST" duration-ms="22712" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for url to contain "/register". Current url: "https://freecrm.com/" (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64057/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c19465021b796928ec4c6d384a08ab5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "/register". Current url: "https://freecrm.com/" (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64057/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c19465021b796928ec4c6d384a08ab5
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at SeleniumJavaDemos.WaitForTitleUrl.main(WaitForTitleUrl.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WaitForTitleUrl@5f8edcc5]" started-at="2024-06-17T14:52:03 IST" name="tearDown" finished-at="2024-06-17T14:52:03 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WaitForTitleUrl -->
+      <class name="SeleniumJavaDemos.TL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.TL@762ef0ea]" started-at="2024-06-17T14:50:58 IST" name="setUp" finished-at="2024-06-17T14:50:59 IST" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.TL@762ef0ea]" started-at="2024-06-17T14:50:59 IST" name="main" finished-at="2024-06-17T14:51:03 IST" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.TL@762ef0ea]" started-at="2024-06-17T14:51:03 IST" name="tearDown" finished-at="2024-06-17T14:51:03 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.TL -->
+      <class name="SeleniumJavaDemos.GetAttributeConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.GetAttributeConcept@1757cd72]" started-at="2024-06-17T14:45:01 IST" name="setUp" finished-at="2024-06-17T14:45:02 IST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.GetAttributeConcept@1757cd72]" started-at="2024-06-17T14:45:02 IST" name="main" finished-at="2024-06-17T14:45:05 IST" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.GetAttributeConcept@1757cd72]" started-at="2024-06-17T14:45:05 IST" name="tearDown" finished-at="2024-06-17T14:45:05 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.GetAttributeConcept -->
+      <class name="SeleniumJavaDemos.DisableElementClickSendKeys">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.DisableElementClickSendKeys@8c3b9d]" started-at="2024-06-17T14:43:04 IST" name="setUp" finished-at="2024-06-17T14:43:05 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.DisableElementClickSendKeys@8c3b9d]" started-at="2024-06-17T14:43:05 IST" name="main" finished-at="2024-06-17T14:43:12 IST" duration-ms="7626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.DisableElementClickSendKeys@8c3b9d]" started-at="2024-06-17T14:43:12 IST" name="tearDown" finished-at="2024-06-17T14:43:12 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.DisableElementClickSendKeys -->
+      <class name="SeleniumJavaDemos.AuthPopUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.AuthPopUp@1190200a]" started-at="2024-06-17T14:42:03 IST" name="setUp" finished-at="2024-06-17T14:42:04 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.AuthPopUp@1190200a]" started-at="2024-06-17T14:42:04 IST" name="main" finished-at="2024-06-17T14:42:10 IST" duration-ms="5890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.AuthPopUp@1190200a]" started-at="2024-06-17T14:42:10 IST" name="tearDown" finished-at="2024-06-17T14:42:10 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.AuthPopUp -->
+      <class name="SeleniumJavaDemos.ActionsRightContextClick">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsRightContextClick@4961f6af]" started-at="2024-06-17T14:41:13 IST" name="setUp" finished-at="2024-06-17T14:41:14 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsRightContextClick@4961f6af]" started-at="2024-06-17T14:41:14 IST" name="main" finished-at="2024-06-17T14:41:17 IST" duration-ms="3664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsRightContextClick@4961f6af]" started-at="2024-06-17T14:41:17 IST" name="tearDown" finished-at="2024-06-17T14:41:17 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsRightContextClick -->
+      <class name="SeleniumJavaDemos.WebDriverWaitConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WebDriverWaitConcept@15ca7889]" started-at="2024-06-17T14:52:28 IST" name="setUp" finished-at="2024-06-17T14:52:29 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WebDriverWaitConcept@15ca7889]" started-at="2024-06-17T14:52:29 IST" name="main" finished-at="2024-06-17T14:52:36 IST" duration-ms="6535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WebDriverWaitConcept@15ca7889]" started-at="2024-06-17T14:52:36 IST" name="tearDown" finished-at="2024-06-17T14:52:36 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WebDriverWaitConcept -->
+      <class name="SeleniumJavaDemos.FEsUtil">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.FEsUtil@192c3f1e]" started-at="2024-06-17T14:43:56 IST" name="setUp" finished-at="2024-06-17T14:43:56 IST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.FEsUtil@192c3f1e]" started-at="2024-06-17T14:43:56 IST" name="main" finished-at="2024-06-17T14:44:00 IST" duration-ms="3453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.FEsUtil@192c3f1e]" started-at="2024-06-17T14:44:00 IST" name="tearDown" finished-at="2024-06-17T14:44:00 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.FEsUtil -->
+      <class name="SeleniumJavaDemos.GoogleSearchSuggestions">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.GoogleSearchSuggestions@49e5f737]" started-at="2024-06-17T14:45:10 IST" name="setUp" finished-at="2024-06-17T14:45:10 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.GoogleSearchSuggestions@49e5f737]" started-at="2024-06-17T14:45:10 IST" name="main" finished-at="2024-06-17T14:45:17 IST" duration-ms="7015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.GoogleSearchSuggestions@49e5f737]" started-at="2024-06-17T14:45:17 IST" name="tearDown" finished-at="2024-06-17T14:45:17 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.GoogleSearchSuggestions -->
+      <class name="SeleniumJavaDemos.ElementIsEnabledSelected">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ElementIsEnabledSelected@1e178745]" started-at="2024-06-17T14:43:33 IST" name="setUp" finished-at="2024-06-17T14:43:34 IST" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ElementIsEnabledSelected@1e178745]" started-at="2024-06-17T14:43:34 IST" name="main" finished-at="2024-06-17T14:43:56 IST" duration-ms="21612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ElementIsEnabledSelected@1e178745]" started-at="2024-06-17T14:43:56 IST" name="tearDown" finished-at="2024-06-17T14:43:56 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ElementIsEnabledSelected -->
+      <class name="SeleniumJavaDemos.NavigationMethods">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.NavigationMethods@3af9c5b7]" started-at="2024-06-17T14:46:08 IST" name="setUp" finished-at="2024-06-17T14:46:08 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.NavigationMethods@3af9c5b7]" started-at="2024-06-17T14:46:08 IST" name="main" finished-at="2024-06-17T14:46:14 IST" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.NavigationMethods@3af9c5b7]" started-at="2024-06-17T14:46:14 IST" name="tearDown" finished-at="2024-06-17T14:46:14 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.NavigationMethods -->
+      <class name="SeleniumJavaDemos.DropDownScrolling">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.DropDownScrolling@f79e]" started-at="2024-06-17T14:43:17 IST" name="setUp" finished-at="2024-06-17T14:43:17 IST" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.DropDownScrolling@f79e]" started-at="2024-06-17T14:43:17 IST" name="main" finished-at="2024-06-17T14:43:25 IST" duration-ms="7617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.DropDownScrolling@f79e]" started-at="2024-06-17T14:43:25 IST" name="tearDown" finished-at="2024-06-17T14:43:25 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.DropDownScrolling -->
+      <class name="SeleniumJavaDemos.MultileSelectionWithSelectClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.MultileSelectionWithSelectClass@10aa41f2]" started-at="2024-06-17T14:46:01 IST" name="setUp" finished-at="2024-06-17T14:46:02 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.MultileSelectionWithSelectClass@10aa41f2]" started-at="2024-06-17T14:46:02 IST" name="main" finished-at="2024-06-17T14:46:08 IST" duration-ms="5983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.MultileSelectionWithSelectClass@10aa41f2]" started-at="2024-06-17T14:46:08 IST" name="tearDown" finished-at="2024-06-17T14:46:08 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.MultileSelectionWithSelectClass -->
+      <class name="SeleniumJavaDemos.ActionsMoveToElement">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsMoveToElement@71e9ddb4]" started-at="2024-06-17T14:40:40 IST" name="setUp" finished-at="2024-06-17T14:40:41 IST" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsMoveToElement@71e9ddb4]" started-at="2024-06-17T14:40:41 IST" name="main" finished-at="2024-06-17T14:40:56 IST" duration-ms="15371" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Add-ons']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0995f3b9a027b234606d0faf3525be97, findElement {value=//div[text()='Add-ons'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61313/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0995f3b9a027b234606d0faf3525be97]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Add-ons']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0995f3b9a027b234606d0faf3525be97, findElement {value=//div[text()='Add-ons'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61313/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0995f3b9a027b234606d0faf3525be97
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at SeleniumJavaDemos.ActionsMoveToElement.getElement(ActionsMoveToElement.java:45)
+at SeleniumJavaDemos.ActionsMoveToElement.handleMenuSubMenuLevel2(ActionsMoveToElement.java:50)
+at SeleniumJavaDemos.ActionsMoveToElement.main(ActionsMoveToElement.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsMoveToElement@71e9ddb4]" started-at="2024-06-17T14:40:56 IST" name="tearDown" finished-at="2024-06-17T14:40:56 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsMoveToElement -->
+      <class name="SeleniumJavaDemos.ActionsClickSendKeys">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ActionsClickSendKeys@79d8407f]" started-at="2024-06-17T14:40:35 IST" name="setUp" finished-at="2024-06-17T14:40:36 IST" duration-ms="1070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ActionsClickSendKeys@79d8407f]" started-at="2024-06-17T14:40:36 IST" name="main" finished-at="2024-06-17T14:40:40 IST" duration-ms="3928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ActionsClickSendKeys@79d8407f]" started-at="2024-06-17T14:40:40 IST" name="tearDown" finished-at="2024-06-17T14:40:40 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ActionsClickSendKeys -->
+      <class name="SeleniumJavaDemos.DragAndDropConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.DragAndDropConcept@4c39bec8]" started-at="2024-06-17T14:43:12 IST" name="setUp" finished-at="2024-06-17T14:43:13 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.DragAndDropConcept@4c39bec8]" started-at="2024-06-17T14:43:13 IST" name="main" finished-at="2024-06-17T14:43:17 IST" duration-ms="3484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.DragAndDropConcept@4c39bec8]" started-at="2024-06-17T14:43:17 IST" name="tearDown" finished-at="2024-06-17T14:43:17 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.DragAndDropConcept -->
+      <class name="SeleniumJavaDemos.StaticWebTable">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.StaticWebTable@68e5eea7]" started-at="2024-06-17T14:49:12 IST" name="setUp" finished-at="2024-06-17T14:49:13 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.StaticWebTable@68e5eea7]" started-at="2024-06-17T14:49:13 IST" name="main" finished-at="2024-06-17T14:50:01 IST" duration-ms="47789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.StaticWebTable@68e5eea7]" started-at="2024-06-17T14:50:01 IST" name="tearDown" finished-at="2024-06-17T14:50:01 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.StaticWebTable -->
+      <class name="SeleniumJavaDemos.GetTextFieldValue">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.GetTextFieldValue@445b295b]" started-at="2024-06-17T14:45:05 IST" name="setUp" finished-at="2024-06-17T14:45:06 IST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.GetTextFieldValue@445b295b]" started-at="2024-06-17T14:45:06 IST" name="main" finished-at="2024-06-17T14:45:09 IST" duration-ms="3806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.GetTextFieldValue@445b295b]" started-at="2024-06-17T14:45:09 IST" name="tearDown" finished-at="2024-06-17T14:45:10 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.GetTextFieldValue -->
+      <class name="SeleniumJavaDemos.ShadowDomWithFrame">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ShadowDomWithFrame@58ea606c]" started-at="2024-06-17T14:48:31 IST" name="setUp" finished-at="2024-06-17T14:48:32 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ShadowDomWithFrame@58ea606c]" started-at="2024-06-17T14:48:32 IST" name="main" finished-at="2024-06-17T14:48:41 IST" duration-ms="9329" status="FAIL">
+          <exception class="org.openqa.selenium.JavascriptException">
+            <message>
+              <![CDATA[javascript error: Cannot read properties of null (reading 'querySelector')
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ff33ea2cf47b0180609856415e028e5, executeScript {args=[], script=return document.querySelector("#userName").shadowRoot.querySelector("#pact1")}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63242/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ff33ea2cf47b0180609856415e028e5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: Cannot read properties of null (reading 'querySelector')
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ff33ea2cf47b0180609856415e028e5, executeScript {args=[], script=return document.querySelector("#userName").shadowRoot.querySelector("#pact1")}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63242/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ff33ea2cf47b0180609856415e028e5
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:464)
+at SeleniumJavaDemos.ShadowDomWithFrame.main(ShadowDomWithFrame.java:33)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.JavascriptException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ShadowDomWithFrame@58ea606c]" started-at="2024-06-17T14:48:41 IST" name="tearDown" finished-at="2024-06-17T14:48:41 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ShadowDomWithFrame -->
+      <class name="SeleniumJavaDemos.StaleElementRefExceptionConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.StaleElementRefExceptionConcept@38e79ae3]" started-at="2024-06-17T14:48:50 IST" name="setUp" finished-at="2024-06-17T14:48:51 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.StaleElementRefExceptionConcept@38e79ae3]" started-at="2024-06-17T14:48:51 IST" name="main" finished-at="2024-06-17T14:48:54 IST" duration-ms="3440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.StaleElementRefExceptionConcept@38e79ae3]" started-at="2024-06-17T14:48:54 IST" name="tearDown" finished-at="2024-06-17T14:48:55 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.StaleElementRefExceptionConcept -->
+      <class name="SeleniumJavaDemos.AmazonTest">
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.AmazonTest@707194ba]" started-at="2024-06-17T14:41:59 IST" name="main" finished-at="2024-06-17T14:42:03 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- SeleniumJavaDemos.AmazonTest -->
+      <class name="SeleniumJavaDemos.StaleElementWithFindElements">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.StaleElementWithFindElements@63070bab]" started-at="2024-06-17T14:48:55 IST" name="setUp" finished-at="2024-06-17T14:48:55 IST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.StaleElementWithFindElements@63070bab]" started-at="2024-06-17T14:48:55 IST" name="main" finished-at="2024-06-17T14:49:12 IST" duration-ms="16924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.StaleElementWithFindElements@63070bab]" started-at="2024-06-17T14:49:12 IST" name="tearDown" finished-at="2024-06-17T14:49:12 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.StaleElementWithFindElements -->
+      <class name="SeleniumJavaDemos.FlipkarPricing">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.FlipkarPricing@7494f96a]" started-at="2024-06-17T14:44:14 IST" name="setUp" finished-at="2024-06-17T14:44:15 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.FlipkarPricing@7494f96a]" started-at="2024-06-17T14:44:15 IST" name="main" finished-at="2024-06-17T14:44:20 IST" duration-ms="5343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.FlipkarPricing@7494f96a]" started-at="2024-06-17T14:44:20 IST" name="tearDown" finished-at="2024-06-17T14:44:20 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.FlipkarPricing -->
+      <class name="SeleniumJavaDemos.RelativeLocatorsConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.RelativeLocatorsConcept@6ab778a]" started-at="2024-06-17T14:47:48 IST" name="setUp" finished-at="2024-06-17T14:47:49 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.RelativeLocatorsConcept@6ab778a]" started-at="2024-06-17T14:47:49 IST" name="main" finished-at="2024-06-17T14:48:02 IST" duration-ms="13046" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"tag name","selector":"Brandon, Canada"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4a24bcf7e15a3bb5530bb3ee63fe944, findElement {value=Brandon, Canada, using=tag name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63040}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63040/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4a24bcf7e15a3bb5530bb3ee63fe944]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"tag name","selector":"Brandon, Canada"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4a24bcf7e15a3bb5530bb3ee63fe944, findElement {value=Brandon, Canada, using=tag name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63040}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63040/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4a24bcf7e15a3bb5530bb3ee63fe944
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at SeleniumJavaDemos.RelativeLocatorsConcept.main(RelativeLocatorsConcept.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.RelativeLocatorsConcept@6ab778a]" started-at="2024-06-17T14:48:02 IST" name="tearDown" finished-at="2024-06-17T14:48:02 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.RelativeLocatorsConcept -->
+      <class name="SeleniumJavaDemos.ElementException">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ElementException@1f59a598]" started-at="2024-06-17T14:43:29 IST" name="setUp" finished-at="2024-06-17T14:43:30 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ElementException@1f59a598]" started-at="2024-06-17T14:43:30 IST" name="main" finished-at="2024-06-17T14:43:33 IST" duration-ms="3452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ElementException@1f59a598]" started-at="2024-06-17T14:43:33 IST" name="tearDown" finished-at="2024-06-17T14:43:33 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ElementException -->
+      <class name="SeleniumJavaDemos.CascadedClassConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.CascadedClassConcept@291caca8]" started-at="2024-06-17T14:42:48 IST" name="setUp" finished-at="2024-06-17T14:42:49 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.CascadedClassConcept@291caca8]" started-at="2024-06-17T14:42:49 IST" name="main" finished-at="2024-06-17T14:42:52 IST" duration-ms="3252" status="FAIL">
+          <exception class="org.openqa.selenium.JavascriptException">
+            <message>
+              <![CDATA[javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //input[@#@#@id=-12'username'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@#@#@id=-12'username']' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e127576df3a03abe1057e61d443c6a94, findElement {value=//input[@#@#@id=-12'username'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61834}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61834/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e127576df3a03abe1057e61d443c6a94]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //input[@#@#@id=-12'username'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@#@#@id=-12'username']' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.142)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e127576df3a03abe1057e61d443c6a94, findElement {value=//input[@#@#@id=-12'username'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 124.0.6367.201 (46cf136d27d..., userDataDir: C:\Users\prasa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61834}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61834/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e127576df3a03abe1057e61d443c6a94
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at SeleniumJavaDemos.CascadedClassConcept.main(CascadedClassConcept.java:45)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.JavascriptException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.CascadedClassConcept@291caca8]" started-at="2024-06-17T14:42:52 IST" name="tearDown" finished-at="2024-06-17T14:42:52 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.CascadedClassConcept -->
+      <class name="SeleniumJavaDemos.WebDriverSession">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WebDriverSession@3c0be339]" started-at="2024-06-17T14:52:20 IST" name="setUp" finished-at="2024-06-17T14:52:20 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WebDriverSession@3c0be339]" started-at="2024-06-17T14:52:20 IST" name="main" finished-at="2024-06-17T14:52:28 IST" duration-ms="8002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WebDriverSession@3c0be339]" started-at="2024-06-17T14:52:28 IST" name="tearDown" finished-at="2024-06-17T14:52:28 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WebDriverSession -->
+      <class name="SeleniumJavaDemos.ElementDisplayed">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.ElementDisplayed@7ee8290b]" started-at="2024-06-17T14:43:25 IST" name="setUp" finished-at="2024-06-17T14:43:26 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.ElementDisplayed@7ee8290b]" started-at="2024-06-17T14:43:26 IST" name="main" finished-at="2024-06-17T14:43:29 IST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.ElementDisplayed@7ee8290b]" started-at="2024-06-17T14:43:29 IST" name="tearDown" finished-at="2024-06-17T14:43:29 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.ElementDisplayed -->
+      <class name="SeleniumJavaDemos.NewWindowConcept">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.NewWindowConcept@ed7f8b4]" started-at="2024-06-17T14:46:26 IST" name="setUp" finished-at="2024-06-17T14:46:27 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.NewWindowConcept@ed7f8b4]" started-at="2024-06-17T14:46:27 IST" name="main" finished-at="2024-06-17T14:47:04 IST" duration-ms="36923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.NewWindowConcept@ed7f8b4]" started-at="2024-06-17T14:47:04 IST" name="tearDown" finished-at="2024-06-17T14:47:04 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.NewWindowConcept -->
+      <class name="SeleniumJavaDemos.SendKeysWithPause">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.SendKeysWithPause@1dac5ef]" started-at="2024-06-17T14:48:18 IST" name="setUp" finished-at="2024-06-17T14:48:19 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.SendKeysWithPause@1dac5ef]" started-at="2024-06-17T14:48:19 IST" name="main" finished-at="2024-06-17T14:48:27 IST" duration-ms="8036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.SendKeysWithPause@1dac5ef]" started-at="2024-06-17T14:48:27 IST" name="tearDown" finished-at="2024-06-17T14:48:27 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.SendKeysWithPause -->
+      <class name="SeleniumJavaDemos.WaitForWindow">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.WaitForWindow@7b02881e]" started-at="2024-06-17T14:52:03 IST" name="setUp" finished-at="2024-06-17T14:52:04 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.WaitForWindow@7b02881e]" started-at="2024-06-17T14:52:04 IST" name="main" finished-at="2024-06-17T14:52:15 IST" duration-ms="10975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.WaitForWindow@7b02881e]" started-at="2024-06-17T14:52:15 IST" name="tearDown" finished-at="2024-06-17T14:52:15 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.WaitForWindow -->
+      <class name="SeleniumJavaDemos.HDFCBank">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumJavaDemos.HDFCBank@5c671d7f]" started-at="2024-06-17T14:45:17 IST" name="setUp" finished-at="2024-06-17T14:45:18 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="main()[pri:0, instance:SeleniumJavaDemos.HDFCBank@5c671d7f]" started-at="2024-06-17T14:45:18 IST" name="main" finished-at="2024-06-17T14:45:18 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumJavaDemos.HDFCBank@5c671d7f]" started-at="2024-06-17T14:45:18 IST" name="tearDown" finished-at="2024-06-17T14:45:18 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumJavaDemos.HDFCBank -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

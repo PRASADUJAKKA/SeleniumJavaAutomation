@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="selenium.Utilities.ExtentReportManager" />
+	</listeners>
+	<test thread-count="20" name="Test">
+		<classes>
+			<class name="SeleniumJavaDemos.ActionsClickSendKeys" />
+			<class name="SeleniumJavaDemos.ActionsMoveToElement" />
+			<class name="SeleniumJavaDemos.ActionsMultiLevelMenuHandling" />
+			<class name="SeleniumJavaDemos.ActionsRightContextClick" />
+			<class name="SeleniumJavaDemos.ActionsScrolling" />
+			<class name="SeleniumJavaDemos.ActionsSignature" />
+			<class name="SeleniumJavaDemos.ActionsTabSequence" />
+			<class name="SeleniumJavaDemos.AlertJsPopUpHandling" />
+			<class name="SeleniumJavaDemos.AmazonTest" />
+			<class name="SeleniumJavaDemos.AuthPopUp" />
+			<class name="SeleniumJavaDemos.BaseTest" />
+			<class name="SeleniumJavaDemos.BrowserException" />
+			<class name="SeleniumJavaDemos.BrowserMultipleWindowHandling" />
+			<class name="SeleniumJavaDemos.BrowserUtil" />
+			<class name="SeleniumJavaDemos.BrowserWindowHandling" />
+			<class name="SeleniumJavaDemos.CascadedClassConcept" />
+			<class name="SeleniumJavaDemos.ChromeTest" />
+			<class name="SeleniumJavaDemos.CricInfoTable" />
+			<class name="SeleniumJavaDemos.CSSSelectors" />
+			<class name="SeleniumJavaDemos.CustomWaitConcept" />
+			<class name="SeleniumJavaDemos.CustomXpath" />
+			<class name="SeleniumJavaDemos.DisableElementClickSendKeys" />
+			<class name="SeleniumJavaDemos.DragAndDropConcept" />
+			<class name="SeleniumJavaDemos.DropDownScrolling" />
+			<class name="SeleniumJavaDemos.EleException" />
+			<class name="SeleniumJavaDemos.ElementDisplayed" />
+			<class name="SeleniumJavaDemos.ElementException" />
+			<class name="SeleniumJavaDemos.ElementIsEnabledSelected" />
+			<class name="SeleniumJavaDemos.FEsUtil" />
+			<class name="SeleniumJavaDemos.FileUploadPopUp" />
+			<class name="SeleniumJavaDemos.FlipkarPricing" />
+			<class name="SeleniumJavaDemos.FluentWaitConcept" />
+			<class name="SeleniumJavaDemos.FrameHandling" />
+			<class name="SeleniumJavaDemos.GetAttributeConcept" />
+			<class name="SeleniumJavaDemos.GetTextFieldValue" />
+			<class name="SeleniumJavaDemos.GoogleSearchSuggestions" />
+			<class name="SeleniumJavaDemos.HDFCBank" />
+			<class name="SeleniumJavaDemos.HeadLessConcept" />
+			<class name="SeleniumJavaDemos.iFrameHandle" />
+			<class name="SeleniumJavaDemos.ImplicitlyWaitConcept" />
+			<class name="SeleniumJavaDemos.JavaScriptExecutorConcept" />
+			<class name="SeleniumJavaDemos.JavaScriptUtil" />
+			<class name="SeleniumJavaDemos.JqueryDropDown" />
+			<class name="SeleniumJavaDemos.LaunchDrivers" />
+			<class name="SeleniumJavaDemos.LaunchEdge" />
+			<class name="SeleniumJavaDemos.LaunchFirefox" />
+			<class name="SeleniumJavaDemos.LaunchSafari" />
+			<class name="SeleniumJavaDemos.MultileSelectionWithSelectClass" />
+			<class name="SeleniumJavaDemos.MyElementException" />
+			<class name="SeleniumJavaDemos.NavigationMethods" />
+			<class name="SeleniumJavaDemos.NestedIframes" />
+			<class name="SeleniumJavaDemos.NewWindowConcept" />
+			<class name="SeleniumJavaDemos.PollingTimeConcept" />
+			<class name="SeleniumJavaDemos.PsuedoElementCncept" />
+			<class name="SeleniumJavaDemos.RelativeLocators" />
+			<class name="SeleniumJavaDemos.RelativeLocatorsConcept" />
+			<class name="SeleniumJavaDemos.SelectDropDownAllOptions" />
+			<class name="SeleniumJavaDemos.SelectDropDownConcept" />
+			<class
+				name="SeleniumJavaDemos.SelectDropDownWithoutUsingSelectClass" />
+			<class name="SeleniumJavaDemos.SendKeysWithPause" />
+			<class name="SeleniumJavaDemos.ShadowDOMElement" />
+			<class name="SeleniumJavaDemos.ShadowDomWithFrame" />
+			<class name="SeleniumJavaDemos.SHubWebTable" />
+			<class name="SeleniumJavaDemos.StaleElementRefExceptionConcept" />
+			<class name="SeleniumJavaDemos.StaleElementWithFindElements" />
+			<class name="SeleniumJavaDemos.StaticWebTable" />
+			<class name="SeleniumJavaDemos.SVGElement" />
+			<class name="SeleniumJavaDemos.SVGMapHandle" />
+			<class name="SeleniumJavaDemos.TL" />
+			<class name="SeleniumJavaDemos.TotalImages" />
+			<class name="SeleniumJavaDemos.TotalLinksConcept" />
+			<class name="SeleniumJavaDemos.WaitForAlerts" />
+			<class name="SeleniumJavaDemos.WaitForIframe" />
+			<class name="SeleniumJavaDemos.WaitForPageloading" />
+			<class name="SeleniumJavaDemos.WaitForTitleUrl" />
+			<class name="SeleniumJavaDemos.WaitForWindow" />
+			<class name="SeleniumJavaDemos.WebDriverBasics" />
+			<class name="SeleniumJavaDemos.WebDriverSession" />
+			<class name="SeleniumJavaDemos.WebDriverWaitConcept" />
+			<class name="SeleniumJavaDemos.WebTableWithRelativeLocator" />
+			<class name="SeleniumJavaDemos.WindowSize" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
