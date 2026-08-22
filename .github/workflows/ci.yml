@@ -49,11 +49,13 @@ jobs:
 
       - name: Run Maven tests
         run: |
-          xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" mvn -B test
+          xvfb-run --auto-servernum \
+            --server-args="-screen 0 1920x1080x24" \
+            mvn -B test
 
       - name: Upload test reports
         if: always()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: test-results
           path: |
@@ -63,7 +65,7 @@ jobs:
 
       - name: Archive Maven logs on failure
         if: failure()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: build-logs
           path: |
