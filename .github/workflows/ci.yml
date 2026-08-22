@@ -2,10 +2,12 @@ name: Java CI
 
 on:
   push:
-    branches: ["**"]
+    branches:
+      - "**"
   pull_request:
-    branches: ["**"]
-  workflow_dispatch: {}
+    branches:
+      - "**"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,34 +16,44 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Set up JDK 8
         uses: actions/setup-java@v5
         with:
           distribution: temurin
-          java-version: '8'
+          java-version: "8"
           cache: maven
 
-      - name: Show tool versions (debug)
+      - name: Show tool versions
         run: |
+          echo "Java:"
           java -version
-          mvn -v
+
+          echo ""
+          echo "Maven:"
+          mvn -version
+
+          echo ""
+          echo "Chrome:"
           google-chrome --version || true
+
+          echo ""
+          echo "ChromeDriver:"
           chromedriver --version || true
 
-      - name: Install Xvfb (for GUI tests)
+      - name: Install Xvfb
         run: |
           sudo apt-get update
           sudo apt-get install -y xvfb
 
-      - name: Run Maven tests (Xvfb)
+      - name: Run Maven tests
         run: |
-          xvfb-run --auto-servernum mvn -B test
+          xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" mvn -B test
 
       - name: Upload test reports
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: test-results
           path: |
@@ -49,9 +61,9 @@ jobs:
             test-output/**
           if-no-files-found: warn
 
-      - name: Archive build logs (on failure)
+      - name: Archive Maven logs on failure
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: build-logs
           path: |
